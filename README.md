@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on .PROGRAMMING..
 - 📫 How to reach me ..mrslaurapereyra@gmail.com.
 - 😄 Pronouns: She
-- ⚡ Fun fact: 
+- ⚡ Fun fact: Rock & roll music
 
 <!---
 laulila/laulila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
