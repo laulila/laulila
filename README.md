@@ -1,10 +1,11 @@
 # 👋 Hi, I'm Laura Pereyra
 
+
 ### 💻 Frontend Developer | React | JavaScript
 
-I'm a developer focused on building modern, responsive and user-friendly web applications.
+I'm a Frontend Developer focused on building modern, responsive and user-friendly web applications with React and JavaScript.
 
-I'm currently strengthening my skills in **React and JavaScript**, while expanding my knowledge of backend development and modern web technologies.
+I'm currently expanding my knowledge of backend development, APIs and databases while continuing to improve my skills in modern web technologies.
 
 I enjoy turning ideas into functional digital experiences and continuously improving my projects through clean code, good UX and attention to detail.
 
